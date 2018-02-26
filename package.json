@@ -1,0 +1,22 @@
+{
+  "name": "mrfc-minsk",
+  "version": "1.0.0",
+  "description": "best club in the world",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimarXxX/home_work.git"
+  },
+  "keywords": [
+    "mrfc"
+  ],
+  "author": "dzmitry tupitsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimarXxX/home_work/issues"
+  },
+  "homepage": "https://github.com/DimarXxX/home_work#readme"
+}
